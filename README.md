@@ -1,0 +1,1 @@
+Welcome to the Voice Assistant project! This project showcases a web-based voice assistant built using HTML, CSS, and JavaScript. It aims to provide an interactive and responsive user experience through voice commands.
